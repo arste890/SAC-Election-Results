@@ -1,7 +1,7 @@
 
 # SAC Election Results (2024–2025)
 
-[![License: StevensIT License v1.0](https://img.shields.io/badge/License-StevensIT%20License%20v1.0-F7F5F0?style=flat-square&logoColor=white&labelColor=191F27)](./LICENSE)
+[![License: StevensIT License v1.0](https://img.shields.io/badge/License-StevensIT%20License%20v1.0-F7F5F0?style=flat-square&logoColor=white&labelColor=191F27)](./LICENSE.md)
 ![Built With: HTML](https://img.shields.io/badge/Built%20with-HTML-0A0A23?style=flat-square&logo=html5&logoColor=white&labelColor=0A0A23)
 ![Status: Maintained](https://img.shields.io/badge/status-maintained-0A0A23?style=flat-square&labelColor=0A0A23&color=4CAF50)
 ![Open Issues](https://img.shields.io/github/issues/arste890/SAC-Election-Results?style=flat-square&labelColor=0A0A23)
